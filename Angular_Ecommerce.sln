@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular_Ecommerce", "Angular_Ecommerce\Angular_Ecommerce.csproj", "{E618F05D-E0DC-4876-BA51-FEA4C955AD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E618F05D-E0DC-4876-BA51-FEA4C955AD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E618F05D-E0DC-4876-BA51-FEA4C955AD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E618F05D-E0DC-4876-BA51-FEA4C955AD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E618F05D-E0DC-4876-BA51-FEA4C955AD42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927622F7-CEF4-4D47-97EF-790F5B6707D1}
+	EndGlobalSection
+EndGlobal
